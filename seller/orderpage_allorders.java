@@ -31,7 +31,7 @@ private WebDriver driver;
 	@FindBy(xpath  ="//select[@id='payment_status']")
 	private WebElement paymentstatus;
 	
-	//fulfillment
+	//fulfillmenttttt
 	@FindBy(xpath  ="//select[@id='status']")
 	private WebElement fulfillment;
 	
